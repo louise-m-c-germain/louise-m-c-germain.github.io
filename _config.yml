@@ -1,10 +1,10 @@
-title: Your awesome title
-email: your-email@domain.com
-description: description
-baseurl: /Jekyll-Avalon
-url: http://joshuaavalon.github.io
-twitter_username: joshuaavalon
-github_username:  joshuaavalon
+title: Louise Germain Website
+email: louise.m.c.germain@gmail.com
+description: CV and business card
+baseurl: ""
+url: https://louise-m-c-germain.github.io
+twitter_username: louisegermain
+github_username:  louise-m-c-germain
 
 sass:
   style: compressed
