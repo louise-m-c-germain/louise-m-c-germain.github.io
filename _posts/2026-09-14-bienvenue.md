@@ -4,8 +4,9 @@ title: "Présentation et Projets"
 date: 2026-09-14
 categories: [General]
 tags: [bio, introduction]
-thumbnail: /img/author.png
+thumbnail: "/img/Avatar.png"
 ---
+![Mon avatar](/img/Avatar.png)
 
 ## Bienvenue sur mon site personnel
 
