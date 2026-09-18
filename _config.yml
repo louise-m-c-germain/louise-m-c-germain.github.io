@@ -12,8 +12,8 @@ sass:
 paginate: 12
 paginate_path: "/:num/"
 
-author_img_s: /img/author_s.png
-author_img: /img/author.png
+author_img_s: /img/Avatar.png
+author_img: /img/Avatar.png
 
 navigation:
   - text: Home
